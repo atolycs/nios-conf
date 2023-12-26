@@ -1,0 +1,3 @@
+# My Nix configuration
+
+WIP...
